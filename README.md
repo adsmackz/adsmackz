@@ -1,9 +1,10 @@
-## Oi, eu sou a mackz, QA Egineer e criador de conteúdo relacionados a programação e tecnologia!
+## Oi, eu sou a mackz 😄
 <div align="center">
   <a href="https://mackz.com.br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adsmackz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsmackz&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 <div style="display: inline_block"><br>
    <img align="center" alt="C" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
