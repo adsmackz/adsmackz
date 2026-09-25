@@ -1,35 +1,42 @@
-<h1>Oi, eu sou o Sergio Junior 👋</h1>
+<p align="center">
+  <img src="banner.svg" alt="Sergio Junior · QA Sênior · Automação de Testes · IA aplicada ao QA" width="100%">
+</p>
 
-**QA Sênior · Automação de Testes · Quality Engineering**
-Curitiba, PR · aberto a oportunidades (remoto ou híbrido)
+<p align="center">
+  <img src="stack.svg" alt="Stack: Cypress, JavaScript, Postman, Playwright, TypeScript, Git, Jira, Docker, VS Code" height="52">
+</p>
 
-Trabalho com qualidade de software há mais de 5 anos. Hoje atuo como QA Sênior no ecossistema Claro, nos apps **Minha Claro Residencial** e **Minha Claro Móvel**, cuidando do ciclo completo de qualidade: do refinamento das demandas à validação em Homolog e Produção.
-
-Minha principal ferramenta é o **Cypress**, e uso **IA no dia a dia de QA** para refatorar automações, criar ferramentas para o time e acelerar diagnósticos.
+<p align="center">
+  <a href="https://sergiojunior.dev"><img src="https://img.shields.io/badge/sergiojunior.dev-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"></a>
+  <a href="https://www.linkedin.com/in/adssergio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jrfariaaa@hotmail.com"><img src="https://img.shields.io/badge/jrfariaaa@hotmail.com-30363d?style=flat-square&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Curitiba%2C%20PR-30363d?style=flat-square&logo=googlemaps&logoColor=white" alt="Curitiba, PR">
+</p>
 
 ---
 
-### 📊 Alguns resultados
+```bash
+$ npx cypress run --spec perfil.cy.js
 
-- **300+ cenários** E2E automatizados em Cypress, cobrindo jornadas críticas de telecom
-- Regressão completa de **3–5 dias → 4 horas** com automação
-- Dashboard de sprint (burndown, OKRs e bugs) que reduziu a **daily de 30 → 10 min** e foi adotado por outras squads
+  Sergio Junior · QA Sênior
 
-### 🧰 Stack
+    ✓ 300+ cenários E2E automatizados com Cypress          (812ms)
+    ✓ regressão completa: 3–5 dias → 4 horas               (604ms)
+    ✓ dashboard de sprint: daily 30 → 10 min               (510ms)
+    ✓ jornadas críticas de telecom em Homolog e Produção   (640ms)
+    ✓ APIs REST validadas no Postman · cenários em BDD     (295ms)
+    ✓ mentorias, guildas e entrevistas técnicas            (388ms)
+    ✓ IA aplicada ao QA + pós em IA                        (702ms)
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  7 passing (3s)
+  próximo spec: o seu time ▍
+```
 
-**Estudando agora:**
+### ⚡ Agora
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| 🔭 Trabalhando em | 🌱 Aprendendo | 💬 Pode me perguntar sobre |
+|---|---|---|
+| Automação E2E no ecossistema Claro (Minha Claro Residencial e Móvel) | Playwright + TypeScript · Appium · Docker | Cypress · BDD · IA aplicada a QA |
 
 ### 🎓 Formação
 
@@ -37,12 +44,4 @@ Minha principal ferramenta é o **Cypress**, e uso **IA no dia a dia de QA** par
 - Pós em **Engenharia de Software · Qualidade e Teste** · Anhanguera
 - **Análise e Desenvolvimento de Sistemas** · UniCesumar
 
-### 📫 Contato
-
-[![Site](https://img.shields.io/badge/sergiojunior.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sergiojunior.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adssergio/)
-[![E-mail](https://img.shields.io/badge/E--mail-jrfariaaa%40hotmail.com-555?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jrfariaaa@hotmail.com)
-
----
-
-<sub>Achou algum bug neste perfil? Chame o QA… ah, sou eu mesmo. 🐞</sub>
+<p align="center"><sub>Achou algum bug neste perfil? Chame o QA… ah, sou eu mesmo. 🐞</sub></p>
