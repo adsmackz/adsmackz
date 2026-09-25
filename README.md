@@ -34,14 +34,20 @@ $ npx cypress run --spec perfil.cy.js
 
 ### ⚡ Agora
 
-| 🔭 Trabalhando em | 🌱 Aprendendo | 💬 Pode me perguntar sobre |
-|---|---|---|
-| Automação E2E no ecossistema Claro (Minha Claro Residencial e Móvel) | Playwright + TypeScript · Appium · Docker | Cypress · BDD · IA aplicada a QA |
+<table>
+<tr>
+<td align="center" width="33%">🔭<br><b>Trabalhando em</b><br><sub>Automação E2E no ecossistema Claro</sub></td>
+<td align="center" width="33%">🌱<br><b>Aprendendo</b><br><sub>Playwright · TypeScript · Appium · Docker</sub></td>
+<td align="center" width="33%">💬<br><b>Me pergunte sobre</b><br><sub>Cypress · BDD · IA aplicada a QA</sub></td>
+</tr>
+</table>
 
 ### 🎓 Formação
 
-- Pós em **IA Aplicada à Transformação Digital** · Anhanguera *(em andamento)*
-- Pós em **Engenharia de Software · Qualidade e Teste** · Anhanguera
-- **Análise e Desenvolvimento de Sistemas** · UniCesumar
+| Período | Curso | Instituição |
+|---|---|---|
+| 2026 – 2027 | **Pós em IA Aplicada à Transformação Digital** · *em andamento* | Anhanguera |
+| 2025 – 2026 | **Pós em Engenharia de Software · Qualidade e Teste** | Anhanguera |
+| 2021 – 2024 | **Análise e Desenvolvimento de Sistemas** | UniCesumar |
 
 <p align="center"><sub>Achou algum bug neste perfil? Chame o QA… ah, sou eu mesmo. 🐞</sub></p>
