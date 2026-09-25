@@ -1,29 +1,48 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+mackz;I'm+25+years+old;I'm+from+Curitiba/PR;I+study+systems+development;and+software+quality+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1>Oi, eu sou o Sergio Junior 👋</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adsmackz&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsmackz&layout=compact&hide_border=true&title_color=800080&text_color=800080&bg_color=0d1117" />
-</div>
-  
-<div style="display: inline_block"><br>
-   <img align="center" alt="C" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="mackz-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/280x280_RS/50/84/a0/5084a0eb72fc56aa7fd26e85bf8288dd.jpg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mackzao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/omackenzie" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@mackz.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
+**QA Sênior · Automação de Testes · Quality Engineering**
+Curitiba, PR · aberto a oportunidades (remoto ou híbrido)
 
- 
-  ![Snake animation](https://github.com/adsmackz/adsmackz/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Trabalho com qualidade de software há mais de 5 anos. Hoje atuo como QA Sênior no ecossistema Claro, nos apps **Minha Claro Residencial** e **Minha Claro Móvel**, cuidando do ciclo completo de qualidade: do refinamento das demandas à validação em Homolog e Produção.
+
+Minha principal ferramenta é o **Cypress**, e uso **IA no dia a dia de QA** para refatorar automações, criar ferramentas para o time e acelerar diagnósticos.
+
+---
+
+### 📊 Alguns resultados
+
+- **300+ cenários** E2E automatizados em Cypress, cobrindo jornadas críticas de telecom
+- Regressão completa de **3–5 dias → 4 horas** com automação
+- Dashboard de sprint (burndown, OKRs e bugs) que reduziu a **daily de 30 → 10 min** e foi adotado por outras squads
+
+### 🧰 Stack
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Estudando agora:**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎓 Formação
+
+- Pós em **IA Aplicada à Transformação Digital** · Anhanguera *(em andamento)*
+- Pós em **Engenharia de Software · Qualidade e Teste** · Anhanguera
+- **Análise e Desenvolvimento de Sistemas** · UniCesumar
+
+### 📫 Contato
+
+[![Site](https://img.shields.io/badge/sergiojunior.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sergiojunior.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adssergio/)
+[![E-mail](https://img.shields.io/badge/E--mail-jrfariaaa%40hotmail.com-555?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jrfariaaa@hotmail.com)
+
+---
+
+<sub>Achou algum bug neste perfil? Chame o QA… ah, sou eu mesmo. 🐞</sub>
