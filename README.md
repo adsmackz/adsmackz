@@ -32,23 +32,12 @@ $ npx cypress run --spec perfil.cy.js
   próximo spec: o seu time ▍
 ```
 
-<h3 align="center">⚡ Agora</h3>
+<p align="center">
+  <img src="now.svg" alt="Agora: trabalhando em automação E2E no ecossistema Claro; aprendendo Playwright, TypeScript, Appium e Docker; me pergunte sobre Cypress, BDD e IA aplicada a QA" width="100%">
+</p>
 
-<table align="center">
-<tr>
-<td align="center" width="240">🔭<br><b>Trabalhando em</b><br><sub>Automação E2E no ecossistema Claro</sub></td>
-<td align="center" width="240">🌱<br><b>Aprendendo</b><br><sub>Playwright · TypeScript · Appium · Docker</sub></td>
-<td align="center" width="240">💬<br><b>Me pergunte sobre</b><br><sub>Cypress · BDD · IA aplicada a QA</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="formacao.svg" alt="Formação: Pós em IA Aplicada à Transformação Digital (Anhanguera, 2026–2027, em andamento); Pós em Engenharia de Software, Qualidade e Teste (Anhanguera, 2025–2026); Análise e Desenvolvimento de Sistemas (UniCesumar, 2021–2024)" width="100%">
+</p>
 
-<h3 align="center">🎓 Formação</h3>
-
-<table align="center">
-<tr><th>Período</th><th>Curso</th><th>Instituição</th></tr>
-<tr><td>2026 – 2027</td><td><b>Pós em IA Aplicada à Transformação Digital</b> · <i>em andamento</i></td><td>Anhanguera</td></tr>
-<tr><td>2025 – 2026</td><td><b>Pós em Engenharia de Software · Qualidade e Teste</b></td><td>Anhanguera</td></tr>
-<tr><td>2021 – 2024</td><td><b>Análise e Desenvolvimento de Sistemas</b></td><td>UniCesumar</td></tr>
-</table>
-
-<p align="center"><sub>Achou algum bug neste perfil? Chame o QA… ah, sou eu mesmo. 🐞</sub></p>
+<p align="center"><sub>Achou algum bug neste perfil? Chame o QA… ah, sou eu mesmo.</sub></p>
